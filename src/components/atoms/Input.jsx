@@ -112,7 +112,9 @@ const [isFocused, setIsFocused] = useState(false);
                 className="absolute -top-2 -right-2 w-6 h-6 bg-gray-600 text-white rounded-full flex items-center justify-center text-xs hover:bg-gray-700 transition-colors">×
                             </button>
         </div>
-    </div>}
+</div>}
 </div>
   );
 };
+
+export default Input;
