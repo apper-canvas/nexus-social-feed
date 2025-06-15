@@ -247,13 +247,14 @@ const PostDetail = () => {
         </h2>
 
         {/* Add Comment Form */}
-        <form onSubmit={handleAddComment} className="mb-6">
+<form onSubmit={handleAddComment} className="mb-6">
           <div className="space-y-3">
             <Input
               placeholder="Write a comment..."
               value={newComment}
               onChange={(e) => setNewComment(e.target.value)}
               className="w-full"
+              showEmojiPicker={true}
             />
             <div className="flex justify-end">
               <Button

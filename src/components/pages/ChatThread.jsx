@@ -171,22 +171,25 @@ const ChatThread = () => {
         </div>
 
         {/* Message Input */}
-        <div className="border-t border-gray-100 p-4">
-          <form onSubmit={handleSendMessage} className="flex space-x-3">
-            <input
-              type="text"
-              value={newMessage}
-              onChange={(e) => setNewMessage(e.target.value)}
-              placeholder={`Message ${partner?.username || ''}...`}
-              className="flex-1 px-4 py-2 border border-gray-200 rounded-full focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all duration-200"
-              disabled={sending}
-            />
+<div className="border-t border-gray-100 p-4">
+          <form onSubmit={handleSendMessage} className="flex space-x-3 items-end">
+            <div className="flex-1">
+              <Input
+                type="text"
+                value={newMessage}
+                onChange={(e) => setNewMessage(e.target.value)}
+                placeholder={`Message ${partner?.username || ''}...`}
+                className="w-full"
+                disabled={sending}
+                showEmojiPicker={true}
+              />
+            </div>
             <Button
               type="submit"
               variant="primary"
               disabled={!newMessage.trim() || sending}
               loading={sending}
-              className="rounded-full px-6"
+              className="rounded-full px-6 mb-0"
             >
               <ApperIcon name="Send" size={16} />
             </Button>
