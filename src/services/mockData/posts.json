@@ -1,0 +1,47 @@
+[
+  {
+    "id": "post-1",
+    "userId": "user-2",
+    "content": "Just caught the most incredible sunrise from my balcony in Ubud! There's something magical about how the light dances through the rice terraces. Sometimes the best moments happen when you least expect them. ✨",
+    "imageUrl": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=600&h=400&fit=crop",
+    "likes": ["current-user-id", "user-3", "user-4"],
+    "comments": ["comment-1", "comment-2"],
+    "createdAt": "2024-01-20T06:30:00Z"
+  },
+  {
+    "id": "post-2",
+    "userId": "current-user-id",
+    "content": "Working on some exciting new product concepts today! The intersection of design and technology never fails to inspire me. What's everyone else creating this weekend? 🎨",
+    "imageUrl": null,
+    "likes": ["user-2", "user-5"],
+    "comments": ["comment-3"],
+    "createdAt": "2024-01-19T15:45:00Z"
+  },
+  {
+    "id": "post-3",
+    "userId": "user-3",
+    "content": "Finally shipped a major feature update! Six months of late nights and countless cups of coffee, but seeing users love what we built makes it all worth it. Here's to the next challenge! 🚀",
+    "imageUrl": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&h=400&fit=crop",
+    "likes": ["current-user-id", "user-4", "user-5"],
+    "comments": ["comment-4", "comment-5"],
+    "createdAt": "2024-01-19T09:20:00Z"
+  },
+  {
+    "id": "post-4",
+    "userId": "user-4",
+    "content": "Luna's first beach day was a huge success! 🏖️ She was a bit hesitant about the waves at first, but by the end she was chasing seagulls like a pro. Nothing beats a day by the ocean with your best friend.",
+    "imageUrl": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=600&h=400&fit=crop",
+    "likes": ["current-user-id", "user-2", "user-3", "user-5"],
+    "comments": ["comment-6"],
+    "createdAt": "2024-01-18T14:10:00Z"
+  },
+  {
+    "id": "post-5",
+    "userId": "user-5",
+    "content": "Morning workout complete! 💪 Today's focus was on functional movements that translate to everyday life. Remember, fitness isn't about perfection - it's about consistency and progress. What's your favorite way to stay active?",
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop",
+    "likes": ["user-3", "user-4"],
+    "comments": ["comment-7", "comment-8"],
+    "createdAt": "2024-01-18T07:15:00Z"
+  }
+]

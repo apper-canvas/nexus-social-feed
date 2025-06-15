@@ -1,0 +1,47 @@
+[
+  {
+    "id": "current-user-id",
+    "username": "alexchen",
+    "bio": "Product designer & coffee enthusiast ☕ | Creating beautiful experiences | Based in SF",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "followersCount": 1247,
+    "followingCount": 892,
+    "createdAt": "2023-01-15T08:30:00Z"
+  },
+  {
+    "id": "user-2",
+    "username": "sarahmiller",
+    "bio": "Travel photographer 📸 | Capturing moments around the world | Currently in Bali",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b9c5d6d7?w=150&h=150&fit=crop&crop=face",
+    "followersCount": 2384,
+    "followingCount": 456,
+    "createdAt": "2023-02-20T14:22:00Z"
+  },
+  {
+    "id": "user-3",
+    "username": "mikejohnson",
+    "bio": "Full-stack developer | React enthusiast | Building the future, one component at a time",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "followersCount": 987,
+    "followingCount": 1203,
+    "createdAt": "2023-03-10T09:15:00Z"
+  },
+  {
+    "id": "user-4",
+    "username": "emilydavis",
+    "bio": "Marketing strategist 🚀 | Helping brands tell their story | Dog mom to Luna 🐕",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "followersCount": 1567,
+    "followingCount": 734,
+    "createdAt": "2023-04-05T16:45:00Z"
+  },
+  {
+    "id": "user-5",
+    "username": "davidwilson",
+    "bio": "Fitness coach & nutritionist 💪 | Transforming lives through wellness | DM for coaching",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "followersCount": 3421,
+    "followingCount": 289,
+    "createdAt": "2023-05-12T11:30:00Z"
+  }
+]

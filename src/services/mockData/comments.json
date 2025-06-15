@@ -1,0 +1,58 @@
+[
+  {
+    "id": "comment-1",
+    "postId": "post-1",
+    "userId": "current-user-id",
+    "content": "Absolutely stunning! Bali is on my bucket list for sure 🌅",
+    "createdAt": "2024-01-20T07:15:00Z"
+  },
+  {
+    "id": "comment-2",
+    "postId": "post-1",
+    "userId": "user-3",
+    "content": "Your photography skills are incredible! What camera do you use?",
+    "createdAt": "2024-01-20T08:22:00Z"
+  },
+  {
+    "id": "comment-3",
+    "postId": "post-2",
+    "userId": "user-4",
+    "content": "Love seeing the creative process! Can't wait to see what you build 🔥",
+    "createdAt": "2024-01-19T16:30:00Z"
+  },
+  {
+    "id": "comment-4",
+    "postId": "post-3",
+    "userId": "current-user-id",
+    "content": "Congratulations! Hard work always pays off 🎉",
+    "createdAt": "2024-01-19T10:45:00Z"
+  },
+  {
+    "id": "comment-5",
+    "postId": "post-3",
+    "userId": "user-2",
+    "content": "Amazing achievement! The dedication shows in the final product",
+    "createdAt": "2024-01-19T11:20:00Z"
+  },
+  {
+    "id": "comment-6",
+    "postId": "post-4",
+    "userId": "user-5",
+    "content": "Luna looks like she had the time of her life! 🐕❤️",
+    "createdAt": "2024-01-18T15:30:00Z"
+  },
+  {
+    "id": "comment-7",
+    "postId": "post-5",
+    "userId": "current-user-id",
+    "content": "Great advice! I've been focusing on consistency over intensity lately",
+    "createdAt": "2024-01-18T08:45:00Z"
+  },
+  {
+    "id": "comment-8",
+    "postId": "post-5",
+    "userId": "user-2",
+    "content": "I love morning workouts too! Sets the tone for the whole day 💪",
+    "createdAt": "2024-01-18T09:10:00Z"
+  }
+]
